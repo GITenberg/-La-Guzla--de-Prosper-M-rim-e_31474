@@ -1,0 +1,48 @@
+_repo: -La-Guzla--de-Prosper-M-rim-e_31474
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Jovanović, Vojislav Mate
+    aliases:
+    - Yovanovic, Voyislav M.
+    - Yovanovitch, Voyslav M.
+    - Jovanovic, Vojislav Mate
+    - Yovanović, Voyislav M.
+    birthdate: 1884
+    deathdate: 1968
+    gutenberg_agent_id: '35261'
+    url: http://www.gutenberg.org/2009/agents/35261
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2010-03-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31474'
+  lccn: '20008839'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mérimée, Prosper, 1803-1870. La guzla'
+- !lcsh 'Songs, Serbian'
+- !lcsh 'Vampires'
+- !lcc 'PQ'
+- !lcsh 'Literary forgeries and mystifications'
+- !lcsh 'Ballads, Serbian'
+- !lcsh 'Folk songs'
+- !lcsh 'Romanticism -- France'
+- !lcsh 'Evil eye'
+- !lcsh 'Comparative literature'
+tableOfContents: '1. ptie. Origines de "La guzla": Les Illyriens dans la littérature
+  française avant "La guzla." La ballade populaire avant "La guzla." Prosper Mérimée
+  avant "La guzla" -- 2. ptie. Les sources de "La guzla": Nodier, Fauriel, Chaumette-Desfossés,
+  "L''orphelin de la Chine." Fortis, "La divine comédie", quelques autres sources.
+  Le merveilleux dans "La guzla." "La ballade de l''épouse d''Asan-Aga." -- 3. ptie.
+  La fortune de "La guzla": "La guzla" en France. "La guzla" en Allemagne. "La guzla"
+  en Angleterre. "La guzla" dans les pays slaves. Appendice.'
+title: La Guzla de Prosper Mérimée
+url: http://www.gutenberg.org/ebooks/31474
