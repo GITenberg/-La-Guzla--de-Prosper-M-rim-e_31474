@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '35261'
     url: http://www.gutenberg.org/2009/agents/35261
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31474#-La-Guzla--de-Prosper-M-rim-e
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2010-03-02'
 gutenberg_type: Text
